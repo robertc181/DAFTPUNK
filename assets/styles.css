@@ -11,6 +11,39 @@
 
     /* ---------------------------------------nav sm */
 
+    .heading-sm {
+        display: block !important;
+    }
+
+    .navbar {
+        background-color: black;
+    }
+
+    .heading-sm {
+        font-family: Anton;
+        font-size: 150%;
+    }
+
+    .navbar-toggler-icon {
+        color: rgb(255, 255, 255);
+        z-index: 3;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .navbar-toggler:hover,
+    .navbar-toggler:active,
+    .navbar-toggler:focus,
+    .navbar-toggler:focus-visible {
+        padding: 0.25rem 0.75rem;
+        line-height: 1;
+        background-color: #ffffff00;
+        border: 1px solid #ffffff00;
+        border-radius: 0.25rem;
+    }
+
+
     /* ---------------------------------------header sm */
 
     /* ---------------------------------------albums sm */
