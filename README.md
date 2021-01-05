@@ -40,9 +40,8 @@ user centric milestone project
 
 4. Wireframe
 
-    https://github.com/robertc181/DAFT-PUNK-/blob/main/assets/wireframe/AKD-73677220152.pdf - automatic!
-[GitHub](https://github.com/robertc181/DAFT-PUNK-/blob/main/assets/wireframe/AKD-73677220152.pdf)
- 
+    https://github.com/robertc181/DAFTPUNK-resubmission/blob/main/assets/wireframe/AKD-73677220152.pdf
+
 5. fonts
 
     * use of Russo One, Anton, Exo, Raleway
