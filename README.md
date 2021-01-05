@@ -56,4 +56,32 @@ user centric milestone project
     * i have used allot of corners and black and white features in this website to connect this website with daft punks style
     * also using a box pattern feature in the albums section 
 
-    
+## Features 
+
+* navigation transparent to colour
+
+    * this allows the user to better see the navigation throughout the site
+
+* navigation click to scroll using anchors
+
+    * this allows the user a better understanding and ease of use to the website
+
+* popup after play album is clicked 
+
+    * after you click the play button the popup is displayed and a audio player is on display also a close button for ease of use
+
+* audio player in popup 
+
+    * after popup is clicked a user can play the music on the audio player
+
+* about section
+
+    * allows the user to find out more about the artists and their history
+
+* albums section
+
+    * shows the user a few of daft punks most famous albums and allows the user to listen to one
+
+* merch section 
+
+    * 3 of daft punk official merch products have buttons bellow to link them to the daftpunk website where they can be purchased
