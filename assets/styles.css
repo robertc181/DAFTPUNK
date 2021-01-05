@@ -28,6 +28,26 @@
 
     /* ---------------------------------------nav md */
 
+    .navbar {
+        background-color: transparent;
+    }
+
+    .heading-sm {
+        display: none !important;
+    }
+
+    #navbarNavDropdown {
+        display: none !important;
+    }
+
+    .link-left {
+        margin-right: 50px;
+    }
+
+    .link-right {
+        margin-left: 50px;
+    }
+
     /* ---------------------------------------header md */
 
     /* ---------------------------------------albums md */
@@ -45,6 +65,14 @@
 @media (min-width: 1000px) {
 
     /* ---------------------------------------nav lg */
+
+    .link-left {
+        margin-right: 100px;
+    }
+
+    .link-right {
+        margin-left: 100px;
+    }
 
     /* ---------------------------------------head lg */
 
