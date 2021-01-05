@@ -64,6 +64,38 @@ body {
     line-height: inherit;
     white-space: nowrap;
 }
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #ffffff5e;
+    font-family: Exo;
+}
+
+.footerlinks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footerlinks i{
+    font-size: 20px;
+}
+
+.footerlinks a{
+    color: white;
+}
+
 
 /* ---------------------------------------buttons */
 
