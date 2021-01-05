@@ -5,6 +5,66 @@
 
 /* ---------------------------------------general */
 
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: black;
+}
+
+.heading {
+    font-family: Anton;
+    font-size: 300%;
+}
+
+.nav-link {
+    font-family: Exo;
+}
+
+.block-divider {
+    width: 50px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.white {
+    color: white;
+}
+
+.black {
+    color: black;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
+.navbar.trigger {
+    transition: 750ms ease;
+    background: black !important;
+    color: white;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 4px;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
 /* ---------------------------------------buttons */
 
 @media (min-width: 200px) {
