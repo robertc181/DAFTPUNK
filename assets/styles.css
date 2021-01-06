@@ -714,6 +714,35 @@ body {
 
     /* ---------------------------------------head lg */
 
+    .callout-container {
+        height: 100vh;
+
+        background: url("../images/daft-punk-front-page-pic.jpg") no-repeat top left;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        position: relative;
+        top: -100px;
+    }
+
+    .fa-angle-double-down {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-size: 30px;
+    }
+
     /* ---------------------------------------albums lg */
 
     .albums {
@@ -830,6 +859,27 @@ body {
 
 
     /* ---------------------------------------merch lg */
+
+    .img-shop-1 {
+        height: 250px;
+        width: 250px;
+    }
+
+    .img-shop-2 {
+        height: 250px;
+        width: 250px;
+    }
+
+    .img-shop-3 {
+        height: 250px;
+        width: 250px;
+    }
+
+    .merch {
+        background-color: white;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
 
     /* ---------------------------------------audio player lg */
 
