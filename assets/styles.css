@@ -441,7 +441,7 @@ body {
     .img-shop-1 {
         height: 250px;
         width: 250px;
-        background: url("../images/DAFT_PUNK_LOGO_TEE_01_grande.webp") no-repeat center;
+        background: url("img/DAFT_PUNK_LOGO_TEE_01_grande.webp") no-repeat center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -452,7 +452,7 @@ body {
     .img-shop-2 {
         height: 250px;
         width: 250px;
-        background: url("../images/DAFT_PUNK_FLOCKED_CLAY_CREW_01_grande.webp") no-repeat center;
+        background: url("img/DAFT_PUNK_FLOCKED_CLAY_CREW_01_grande.webp") no-repeat center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -463,7 +463,7 @@ body {
     .img-shop-3 {
         height: 250px;
         width: 250px;
-        background: url("../images/DAFT_PUNK_PULLOVER_02_grande.jpg") no-repeat center;
+        background: url("img/DAFT_PUNK_PULLOVER_02_grande.jpg") no-repeat center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -532,7 +532,7 @@ body {
 
         background-color: black;
         height: 70vh;
-        background: url("../images/design-album.jpg") no-repeat center;
+        background: url("img/design-album.jpg") no-repeat center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
