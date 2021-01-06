@@ -513,6 +513,82 @@ body {
 
     /* ---------------------------------------albums lg */
 
+    .albums {
+        margin-top: -100px;
+        background-color: black;
+        height: 80vh;
+        padding-bottom: 800px;
+        background: url("../images/design-album.jpg") no-repeat center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+    .heading-albums {
+        font-family: Russo One;
+        letter-spacing: 3px;
+        font-size: 60px;
+        text-align: center;
+        padding-bottom: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .albumcol {
+        background-color: rgba(0, 0, 0, 0);
+        height: 400px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .picone {
+        height: 250px;
+        width: 250px;
+    }
+    .pictwo {
+        height: 300px;
+        width: 300px;
+    }
+    .picthree {
+        height: 250px;
+        width: 250px;
+    }
+
+    .spotify-connect {
+        width: 350px;
+        height: 50px;
+        background-color: white;
+        padding-left: 10px;
+        text-align: left;
+        clear: both;
+        margin-top: 500px;
+        display: inline;
+    }
+
+    .spotify-connect p {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 10px;
+        float: left;
+        padding-left: 10px;
+        font-family: Russo One;
+        font-size: 20px;
+    }
+
+    .iconplay {
+        display: inline;
+        padding-right: 10px;
+        float: right;
+        font-size: 26px;
+        align-items: center;
+        justify-content: center;
+        padding-top: 5px;
+    }
+
     /* ---------------------------------------about lg */
     .about-text-center {
         display: flex;
