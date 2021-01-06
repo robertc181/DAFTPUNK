@@ -395,6 +395,43 @@ body {
 
     /* ---------------------------------------about-recent sm */
 
+    .about-text-center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 75%;
+    }
+
+    .about-heading {
+        font-family: Russo One;
+        font-size: 200%;
+        letter-spacing: 3px;
+        color: white;
+    }
+
+    .about-text {
+        font-family: Exo;
+        text-align: center;
+        margin: auto;
+        font-size: 90%;
+        letter-spacing: 2px;
+        color: rgba(255, 255, 255, 0.705);
+        padding-bottom: 30px;
+    }
+
+    .redimg {
+        width: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .recent {
+        background-color: rgb(25 25 25);
+        padding-top: 50px;
+    }
+
+
     /* ---------------------------------------merch sm */
 
 
@@ -559,6 +596,41 @@ body {
     }
 
     /* ---------------------------------------about-recent md */
+
+    .about-text-center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 75%;
+    }
+
+    .about-heading {
+        font-family: Russo One;
+        font-size: 200%;
+        letter-spacing: 3px;
+        color: white;
+    }
+
+    .about-text {
+        font-family: Exo;
+        font-size: 80%;
+        text-align: left;
+        letter-spacing: 2px;
+        color: rgba(255, 255, 255, 0.705);
+    }
+
+    .redimg {
+        width: 400px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .recent {
+        background-color: black;
+        padding-bottom: 100px;
+    }
+
 
     /* ---------------------------------------merch md */
 
