@@ -252,6 +252,110 @@ body {
 
     /* ---------------------------------------albums sm */
 
+    .albums {
+        margin-top: -100px;
+        margin-bottom: 100px;
+        background-color: rgb(0, 0, 0);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+    .heading-albums {
+        font-family: Russo One;
+        letter-spacing: 3px;
+        font-size: 30px;
+        text-align: center;
+        padding-top: 150px;
+    }
+
+    .albumcol {
+        background-color: rgba(0, 0, 0, 0);
+        height: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .picone {
+        height: 250px;
+        width: 250px;
+        background: url("../images/Tron_Legacy_Soundtrack.jpg") no-repeat center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        border: 1px solid #363636;
+
+        position: absolute;
+    }
+
+    .pictwo {
+        height: 250px;
+        width: 250px;
+        background: url("../images/random-access.jpg") no-repeat center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        border: 1px solid #363636;
+
+        position: absolute;
+    }
+
+    .picthree {
+        height: 250px;
+        width: 250px;
+        background: url("../images/daft-punk-album.jpg") no-repeat center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        border: 1px solid #363636;
+
+        position: absolute;
+    }
+    .spotify-connect {
+        width: 50%;
+        height: 40px;
+        background-color: white;
+        padding-left: 10px;
+        text-align: left;
+        clear: both;
+        margin-top: 270px;
+        display: inline;
+    }
+
+    .spotify-connect p {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 16px;
+        float: left;
+        padding-left: 10px;
+        font-family: Russo One;
+        font-size: 12px;
+    }
+
+    .iconplay {
+        display: inline;
+        padding-right: 10px;
+        float: right;
+        font-size: 20px;
+        align-items: center;
+        justify-content: center;
+        padding-top: 10px;
+    }
+
+    .fa-play-circle:hover {
+        color: grey;
+    }
+
+    .fa-spotify:hover {
+        color: grey;
+    }
+
     /* ---------------------------------------media player sm */
 
     /* ---------------------------------------about-recent sm */
