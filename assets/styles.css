@@ -434,6 +434,68 @@ body {
 
     /* ---------------------------------------merch sm */
 
+    .merch {
+        background-color: white;
+    }
+
+    .img-shop-1 {
+        height: 250px;
+        width: 250px;
+        background: url("../images/DAFT_PUNK_LOGO_TEE_01_grande.webp") no-repeat center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        margin: auto;
+    }
+
+    .img-shop-2 {
+        height: 250px;
+        width: 250px;
+        background: url("../images/DAFT_PUNK_FLOCKED_CLAY_CREW_01_grande.webp") no-repeat center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        margin: auto;
+    }
+
+    .img-shop-3 {
+        height: 250px;
+        width: 250px;
+        background: url("../images/DAFT_PUNK_PULLOVER_02_grande.jpg") no-repeat center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        margin: auto;
+        border: solid 2px white;
+    }
+
+    .merch-item {
+        text-align: center;
+    }
+
+    .merch h2 {
+        font-family: Russo One;
+        font-size: 20px;
+    }
+
+    .merch p {
+        font-family: Exo;
+        color: #00000066;
+    }
+
+    .merch h1 {
+        padding-bottom: 50px;
+    }
+
+    .merch-whole-itm {
+        padding-bottom: 100px;
+    }
+}
+
+
 
 }
 
