@@ -525,6 +525,44 @@ body {
 
     /* ---------------------------------------header md */
 
+    .callout-container {
+        height: 100vh;
+
+        background: url("../images/daft-punk-front-page-pic.jpg") no-repeat top;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        position: relative;
+        top: -100px;
+    }
+
+    .fa-angle-double-down {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-size: 30px;
+    }
+
+    .jumbotron-header {
+        font-family: Russo One;
+        font-size: 100px;
+    }
+
+    .down p {
+        font-size: 100%;
+    }
+
     /* ---------------------------------------albums md */
 
     .albums {
