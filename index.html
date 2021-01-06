@@ -252,6 +252,11 @@
          
         <script>
 
+            // credit code for transparent to black nav javascript from System 22 I.T. Solutions youtube vidio  https://www.youtube.com/channel/UCYeyetu9B2QYrHAjJ5umN1Q
+            $(window).scroll(function () {
+                $("nav").toggleClass("trigger", $(this).scrollTop() > 100);
+            });
+
             // credit to ww3 schools for media popup 
 
             function openForm() {
