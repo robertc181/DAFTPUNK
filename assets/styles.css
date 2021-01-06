@@ -105,6 +105,11 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
 
 /* ---------------------------------------buttons */
 
