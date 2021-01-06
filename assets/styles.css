@@ -840,4 +840,55 @@ body {
 
     /* ---------------------------------------about xlg */
 
+    .albums {
+        margin-top: -100px;
+        background-color: black;
+        height: 100vh;
+    }
+
+    .picone {
+        height: 300px;
+        width: 300px;
+    }
+    .pictwo {
+        height: 350px;
+        width: 350px;
+    }
+    .picthree {
+        height: 300px;
+        width: 300px;
+    }
+
+    .spotify-connect {
+        width: 350px;
+        height: 50px;
+        background-color: white;
+        padding-left: 10px;
+        text-align: left;
+        clear: both;
+        margin-top: 500px;
+        display: inline;
+    }
+
+    .spotify-connect p {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 10px;
+        float: left;
+        padding-left: 10px;
+        font-family: Russo One;
+        font-size: 20px;
+    }
+
+    .iconplay {
+        display: inline;
+        padding-right: 10px;
+        float: right;
+        font-size: 26px;
+        align-items: center;
+        justify-content: center;
+        padding-top: 5px;
+    }
+
 }
