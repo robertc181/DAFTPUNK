@@ -316,6 +316,41 @@ body {
     /* ---------------------------------------albums lg */
 
     /* ---------------------------------------about lg */
+    .about-text-center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 75%;
+    }
+
+    .about-heading {
+        font-family: Russo One;
+        font-size: 200%;
+        letter-spacing: 3px;
+        color: white;
+    }
+
+    .about-text {
+        font-family: Exo;
+        font-size: 100%;
+        letter-spacing: 2px;
+        color: rgba(255, 255, 255, 0.705);
+    }
+
+    .redimg {
+        height: 400px;
+    }
+
+    .about-div {
+        margin-bottom: 100px;
+        margin-top: 100px;
+    }
+
+    .recent {
+        margin-top: 200px;
+        margin-bottom: 200px;
+    }
+
 
     /* ---------------------------------------merch lg */
 
