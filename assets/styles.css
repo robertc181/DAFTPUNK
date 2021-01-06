@@ -427,7 +427,7 @@ body {
     }
 
     .recent {
-        background-color: rgb(25 25 25);
+        background-color:rgb(10 10 10);
         padding-top: 50px;
     }
 
@@ -528,7 +528,7 @@ body {
     .callout-container {
         height: 100vh;
 
-        background: url("../images/daft-punk-front-page-pic.jpg") no-repeat top;
+        background: url("img/daft-punk-front-page-pic.jpg") no-repeat top;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -776,7 +776,7 @@ body {
     .callout-container {
         height: 100vh;
 
-        background: url("../images/daft-punk-front-page-pic.jpg") no-repeat top left;
+        background: url("img/daft-punk-front-page-pic.jpg") no-repeat top left;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
