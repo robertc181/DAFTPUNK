@@ -696,6 +696,27 @@ body {
 
     /* ---------------------------------------merch md */
 
+    .img-shop-1 {
+        height: 200px;
+        width: 200px;
+    }
+
+    .img-shop-2 {
+        height: 200px;
+        width: 200px;
+    }
+
+    .img-shop-3 {
+        height: 200px;
+        width: 200px;
+    }
+
+    .merch {
+        background-color: white;
+        padding-top: 50px;
+        padding-bottom: 200px;
+    }
+
 
 
 }
