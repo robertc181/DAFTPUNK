@@ -118,4 +118,82 @@ user centric milestone project
     * Google images   
 * daft-punk-album.jpg                                
     * Google images   
+
+
+2. Audio
+
+    * track one of Random access memories  
+        * Spotify
+
+3. Content
+
+    * Wikipedia daft punk
+
+
+
+## Testing client stories from UX section of README.MD
+
+
+1. As a new visitor to the website I want to navigate the site with ease and no confusion.
+
+    * No matter what page the new visitor lands on they can easily find the navigation menu 
+    * The logo image always leads back to the front page 
+    * The main merch bottom smooth scrolls to the merch section
+
+2. As a new visitor to the website I want to be able to view the merch after I click the merch call to action button
+
+    * After the merch button is clicked the page smooth scrolls down to the merch section where the products are
+    also a clearly labeled merch is easy to find on the navigation at all times
+
+3. As a new visitor to the website I want to be able to connect with the artist by looking at the about section.
+
+    * A clearly labeled about page is displayed on the nav at all times and title on the about us page.
+    * The about us section goes through DAFT PUNKS past and present in the recent section 
+    * the recent section is also located on the nav and has a title of recent on its page.
+
+3. As a new visitor to the website I want to be able to smoothly scroll through the website 
+
+    * each button and nav link that locates the user to another part of the website is connect with anchor ID tags
+    * I've set the HTML in the CSS file to scroll-behavior to smooth to allow for the smooth transitions
+
+4. As a new visitor to the website I want to be able to press play and view the audio player 
+
+    * After the play button is clicked using JavaScript I created a popup that covers most of the page and allows the user to play the audio 
+    * I've also connected a close button to the popup so that it can be closed easily.
+
+5. As a new visitor to the website I want to be able to be sent to Spotify if the Spotify icon is clicked 
+
+    * After the Spotify icon is clicked it locates the user in a new window where they can view the album in Spotify
+
+
+6. As a new visitor to the website I want to be able to be linked to the official daft punk shop when I click view under the merch product
+
+    * after the view button is clicked the user is brought to the daft punk website 
+    * also the user is brought to the exact product which they clicked to view on in the website.
+
+7. As a new visitor to the website I want to be able to link to each social media in the footer.
+
+    * after any of the font awesome icons are clicked the user is sent to the daft punk social media account in a new window.
+
+
+
+## Deyployment 
+
+1. Firstly to create this project I created a repo in git hub called DAFT_PUNK_ and added my readme.
+
+2. Next I opened up visual studio code where I created a file with assets css and html inside.
+
+3. To connect my local file with my githup repo I went to my console and firstly used (cd) to locate my local file
+
+4. Next i used git clone and my repo link from git hup to clone my repo to my local file 
+
+5. After this i started coding and after i was happy wioth my progress i use git commit -m "" and this was my initial commit.
+
+6. After i pushed the code up to github
+
+7. To deploy my project i went into settings in githup and located github pages 
+
+8. I then seelected the master and created the hosted site.
+
+
                                    
