@@ -5,7 +5,6 @@
 
 /* ---------------------------------------general */
 
-
 html {
     scroll-behavior: smooth;
 }
@@ -78,7 +77,7 @@ body {
     font-family: Exo;
 }
 
-.footerlinks{
+.footerlinks {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -88,11 +87,11 @@ body {
     padding-bottom: 40px;
 }
 
-.footerlinks i{
+.footerlinks i {
     font-size: 20px;
 }
 
-.footerlinks a{
+.footerlinks a {
     color: white;
 }
 
@@ -109,7 +108,6 @@ body {
     background-color: rgba(0, 0, 0, 0);
     color: white;
 }
-
 
 /* ---------------------------------------buttons */
 
@@ -161,7 +159,6 @@ body {
 }
 
 @media (min-width: 200px) {
-
     /* ---------------------------------------nav sm */
 
     .heading-sm {
@@ -195,7 +192,6 @@ body {
         border: 1px solid #ffffff00;
         border-radius: 0.25rem;
     }
-
 
     /* ---------------------------------------header sm */
 
@@ -392,7 +388,6 @@ body {
         width: 95%;
     }
 
-
     /* ---------------------------------------about-recent sm */
 
     .about-text-center {
@@ -427,10 +422,9 @@ body {
     }
 
     .recent {
-        background-color:rgb(10 10 10);
+        background-color: rgb(10 10 10);
         padding-top: 50px;
     }
-
 
     /* ---------------------------------------merch sm */
 
@@ -493,10 +487,6 @@ body {
     .merch-whole-itm {
         padding-bottom: 100px;
     }
-
-
-
-
 }
 
 @media (min-width: 580px) {
@@ -731,7 +721,6 @@ body {
         padding-bottom: 100px;
     }
 
-
     /* ---------------------------------------merch md */
 
     .img-shop-1 {
@@ -754,13 +743,10 @@ body {
         padding-top: 50px;
         padding-bottom: 200px;
     }
-
-
-
 }
 
 @media (min-width: 1000px) {
-
+    
     /* ---------------------------------------nav lg */
 
     .link-left {
@@ -916,7 +902,6 @@ body {
         margin-bottom: 200px;
     }
 
-
     /* ---------------------------------------merch lg */
 
     .img-shop-1 {
@@ -942,7 +927,6 @@ body {
 
     /* ---------------------------------------audio player lg */
 
-    
     * {
         box-sizing: border-box;
     }
@@ -976,12 +960,9 @@ body {
         margin-bottom: 30px;
         width: 100%;
     }
-
-
 }
 
 @media (min-width: 1450px) {
-
     /* ---------------------------------------about xlg */
 
     .albums {
@@ -1034,5 +1015,4 @@ body {
         justify-content: center;
         padding-top: 5px;
     }
-
 }

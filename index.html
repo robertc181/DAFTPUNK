@@ -38,8 +38,6 @@
                     <li class="nav-item mr-2"><a class="nav-link link-right" href="#merch">MERCH</a></li>
                 </ul>
             </div>
-
-            
         </nav>
 
         <!-- header -->
@@ -55,7 +53,7 @@
                         <p class="lead">Looking for some official DAFT PUNK merch ?</p>
                         <p>
                             <!-- <button onclick="window.location.href='/page2'">Continue</button> -->
-                           <button class="button button2" onclick="merchButton()">MERCH</button>
+                            <button class="button button2" onclick="merchButton()">MERCH</button>
                         </p>
                     </section>
                     <div class="down">
@@ -78,8 +76,8 @@
 
         <!-- about -->
 
-        <!-- link anchor -->	
-        <div id="about"></div>	
+        <!-- link anchor -->
+        <div id="about"></div>
         <!-- link anchor -->
 
         <section style="padding-top: 100px;">
@@ -94,11 +92,10 @@
                                 helmets mesh with the duo's tendency to blend futuristic elements with classic disco and pop sounds in their music. &nbsp;<br />
                                 <br />
                             </p>
-                    
                         </div>
                     </div>
                     <div class="col about-text about-text-center">
-                        <img class="redimg" alt="image of one of the daft punk members posing "  src="assets\img\about-pic-.png" />
+                        <img class="redimg" alt="image of one of the daft punk members posing " src="assets\img\about-pic-.png" />
                     </div>
                 </div>
             </div>
@@ -106,8 +103,8 @@
 
         <!-- albums -->
 
-        <!-- link anchor -->	
-        <div id="albums"></div>	
+        <!-- link anchor -->
+        <div id="albums"></div>
         <!-- link anchor -->
 
         <section class="albums" style="padding-top: 100px;">
@@ -135,7 +132,6 @@
                         <div class="picthree"></div>
                     </div>
                 </div>
-                
             </div>
         </section>
 
@@ -151,7 +147,7 @@
                             <p>TRACK 1</p>
                             <!-- credit to ww3 schools for audio player https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_audio_all -->
                             <audio controls class="audioplayer">
-                                <source src="assets/img/01-Givelifebacktomusic(1).mp3" type="audio/mpeg"/>
+                                <source src="assets/img/01-Givelifebacktomusic(1).mp3" type="audio/mpeg" />
                                 Your browser does not support the audio element.
                             </audio>
                             <button type="button" class="btn cancel button button2 special" onclick="closeForm()">CLOSE</button>
@@ -163,8 +159,8 @@
 
         <!-- recent years -->
 
-        <!-- link anchor -->	
-        <div id="recent"></div>	
+        <!-- link anchor -->
+        <div id="recent"></div>
         <!-- link anchor -->
 
         <section style="padding-top: 50px;">
@@ -185,15 +181,14 @@
                             </p>
                         </div>
                     </div>
-                    
                 </div>
             </div>
         </section>
 
         <!-- merch -->
 
-        <!-- link anchor -->	
-        <div id="merch"></div>	
+        <!-- link anchor -->
+        <div id="merch"></div>
         <!-- link anchor -->
 
         <section class="merch">
@@ -265,9 +260,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-         
         <script>
-
             // credit code for transparent to black nav javascript from System 22 I.T. Solutions youtube vidio  https://www.youtube.com/channel/UCYeyetu9B2QYrHAjJ5umN1Q
             $(window).scroll(function () {
                 $("nav").toggleClass("trigger", $(this).scrollTop() > 100);
@@ -285,11 +278,11 @@
                 window.open("https://daftpunk.com/collections/shop-by-product/products/classic-logo-zip-hoodie", "_blank");
             }
 
-            function merchButton() {	
-                window.location.href = '#merch';	
+            function merchButton() {
+                window.location.href = "#merch";
             }
 
-            // credit to ww3 schools for media popup 
+            // credit to ww3 schools for media popup
 
             function openForm() {
                 document.getElementById("popupForm").style.display = "block";
@@ -301,9 +294,6 @@
             function openSpotifyDaftPunk() {
                 window.open("https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=KaeUxYnaTkuVn-RUMZtEIA", "_blank");
             }
-
         </script>
-       
-
     </body>
 </html>
