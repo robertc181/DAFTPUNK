@@ -1,4 +1,4 @@
-# DAFTPUNK-resubmission
+# DAFTPUNK
 
 user centric milestone project
 
