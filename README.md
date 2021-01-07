@@ -185,15 +185,15 @@ user centric milestone project
 
 3. To connect my local file with my githup repo I went to my console and firstly used (cd) to locate my local file
 
-4. Next i used git clone and my repo link from git hup to clone my repo to my local file 
+4. Next I used git clone and my repo link from git hup to clone my repo to my local file 
 
-5. After this i started coding and after i was happy wioth my progress i use git commit -m "" and this was my initial commit.
+5. After this I started coding and after i was happy wioth my progress I use git commit -m "comment" and this was my initial commit.
 
-6. After i pushed the code up to github
+6. After I pushed the code up to github
 
-7. To deploy my project i went into settings in githup and located github pages 
+7. To deploy my project I went into settings in githup and located github pages 
 
-8. I then seelected the master and created the hosted site.
+8. I then selected the master and created the hosted site.
 
 
                                    
