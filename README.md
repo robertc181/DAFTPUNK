@@ -85,3 +85,37 @@ user centric milestone project
 * merch section 
 
     * 3 of daft punk official merch products have buttons bellow to link them to the daftpunk website where they can be purchased
+
+## Technologies
+
+1. HTML5
+2. css
+3. Bootstrap 4
+4. JavaScript
+5. balsamiq
+
+## Credits
+
+1. Media
+
+* Tron_Legacy_Soundtrack.jpg                         
+    * Jesse-Coverlandia  http://coverlandia.blogspot.com/2010/10/daft-punk-tron-legacy-original-motion.html
+* starboy.jpg                                        
+    * wikipedia   
+* daft-punk-front-page-pic.jpg                       
+    * Bing images   
+* design-album.jpg                                   
+    * Bing images   
+* DAFT_PUNK_PULLOVER_02_grande.jpg                   
+    * daftpunk.ie 
+* DAFT_PUNK_LOGO_TEE_01_grande.webp                  
+    * daftpunk.ie 
+* DAFT_PUNK_FLOCKED_CLAY_CREW_01_grande.webp         
+    * daftpunk.ie 
+* random-access.jpg                                  
+    * Pinterest
+* about-pic.jpg                                      
+    * Google images   
+* daft-punk-album.jpg                                
+    * Google images   
+                                   
